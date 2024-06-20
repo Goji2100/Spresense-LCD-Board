@@ -30,7 +30,7 @@ Spresenseの拡張ボードにスタックするLCDボードです
 ### カメラマウンター<br>
 ![](DOC/Spresense_CAMERA_BASE7.jpg)<br>
 ### [カメラマウンター] DOC/SPRESENSE CAMERA BASE7.stl <br>
-### [カメラマウンター　TinkCad](https://www.tinkercad.com/things/2FAODkR43Zt-spresense-camera-base7)
+### [カメラマウンター　Tinkercad](https://www.tinkercad.com/things/2FAODkR43Zt-spresense-camera-base7)
 <br><br>
 
 ## ビルド
