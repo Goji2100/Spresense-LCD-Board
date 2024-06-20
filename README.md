@@ -43,7 +43,7 @@ Spresenseの拡張ボードにスタックするLCDボードです
 <br><br>
 ## 使用方法
 - オリジナルはSpresenseのサンプルスケッチ->camera->camera_apitest.inoです<br>
-  オリジナルにプレビューをLovyanGFXで表示するする処理を追加<br>
+  LovyanGFXでプレビュー表示するする処理を追加<br>
   タッチパネル読み取り処理を追加<br>
   オリジナルにあるSerialターミナルでのメニュー操作はそのままです<br>
   （写真の解像度、ISO感度などの設定、撮影画像のSDへの保存などができます）<br>
