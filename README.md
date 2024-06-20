@@ -8,12 +8,14 @@ Spresenseの拡張ボードにスタックするLCDボードです
 ## LCDボードとSpresense拡張ボード
 ![](DOC/IMG_4679.jpeg)<br><br>
 
+## LCDボード回路図
+![](DOC/Spresense_LCD_B.png)<br><br>
 
 ## 使用するLCD
 ![](/DOC/IMG_4674.jpeg)
 
-写真左）3.5 インチタッチスクリーン MHS TFT LCD モジュール画面ディスプレイ<br>
-写真右）GeeekPi 3.5インチ320 * 480モニタータッチパネルRaspberry Pi LCD　　
+左）3.5 インチタッチスクリーン MHS TFT LCD モジュール[SPI 180MHz Support]<br>
+右）GeeekPi 3.5インチ320 * 480モニタータッチパネル LCD[SPI 125MHz Support]　　
 <br>
 <br>
 <br>
