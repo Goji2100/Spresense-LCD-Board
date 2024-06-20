@@ -34,7 +34,7 @@ Spresenseの拡張ボードにスタックするLCDボードです
 <br><br>
 
 ## ビルド
-1. フォルダ（camera_apitest2）をArduinoスケッチフォルダーにコピー
+1. フォルダ（camera_apitest）をArduinoスケッチフォルダーにコピー
 2. ボードパッケージは "2.6.0" を使用します（3.xでは問題あり）
 3. Memory:1536KBを選択
 4. ライブラリーに "LovyanGFX" と "XPT2046_Touchscreen" をインストール
