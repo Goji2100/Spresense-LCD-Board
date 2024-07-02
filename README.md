@@ -51,6 +51,7 @@ Spresenseの拡張ボードにスタックするLCDボードです
   （写真の解像度、ISO感度などの設定、撮影画像のSDへの保存などができます）<br>
 - タッチパネルによる写真撮影処理を追加
 - 撮影した写真のサムネイル表示処理を追加（最新の5枚まで表示）
-
-  
-  
+<br><br>
+## ライセンス
+[LovyanGFX](https://github.com/lovyan03/LovyanGFX/tree/master) [FreeBSD](https://github.com/lovyan03/LovyanGFX/blob/master/license.txt) lovyan03
+<br><br>
