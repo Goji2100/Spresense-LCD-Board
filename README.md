@@ -54,4 +54,6 @@ Spresenseの拡張ボードにスタックするLCDボードです
 <br><br>
 ## ライセンス
 [LovyanGFX](https://github.com/lovyan03/LovyanGFX/tree/master) [FreeBSD](https://github.com/lovyan03/LovyanGFX/blob/master/license.txt) lovyan03
-<br><br>
+<br>
+[camera_apitest.ino]() [GNU]() Sony Semiconductor Solutions Corporation
+<br>
