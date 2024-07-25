@@ -2,17 +2,31 @@
 ## LCD board for Spresense
 Spresenseの拡張ボードにスタックするLCDボードです
 <br>
+
+## 表示画面
+<table>
+<tr>
+<td><img src="/DOC/CAP0320.png" width="400px"></td>
+<td><img src="/DOC/CAP0480.png" width="400px"></td>
+</tr>
+<tr>
+<td>表示画面（480 x 320）</td>
+<td>表示画面（320 x 240）</td>
+</tr>
+</table>
+<br>
+
 ## 組み立て完成写真
-![](DOC/IMG_4691.jpeg)<br><br>
+<img src="/DOC/IMG_4691.jpeg" width="800px"><br><br>
 
 ## LCDボードとSpresense拡張ボード
-![](DOC/IMG_4679.jpeg)<br><br>
+<img src="/DOC/IMG_4679.jpeg" width="800px"><br><br>
 
 ## LCDボード回路図
-![](DOC/Spresense_LCD_B.png)<br><br>
+<img src="/DOC/Spresense_LCD_B.png" width="800px"><br><br>
 
 ## 使用するLCD
-![](/DOC/IMG_4674.jpeg)
+<img src="/DOC/IMG_4674.jpeg" width="800px">
 
 左）3.5 インチタッチスクリーン MHS TFT LCD モジュール[SPI 125MHz Support]<br>
 右）GeeekPi 3.5インチ320 * 480モニタータッチパネル LCD[SPI 180MHz Support]　　
@@ -20,27 +34,71 @@ Spresenseの拡張ボードにスタックするLCDボードです
 <br>
 <br>
 
+## その他のLCD
+<table>
+<tr><td><img src="/DOC/IMG_4708.jpeg" width="800px"></td></tr>
+</table>
+<br>
+
+<table>
+<tr>
+<td><img src="/DOC/IMG_4712.jpeg" width="400px"></td>
+<td><img src="/DOC/IMG_4714.jpeg" width="400px"></td>
+</tr>
+<tr>
+<td>Adafruit ILI9341（表面） 320 x 240</td>
+<td>Adafruit ILI9341（背面）</td>
+</tr>
+</table>
+<br>
+
+<table>
+<tr>
+<td><img src="/DOC/IMG_4715.jpeg" width="400"></td>
+<td><img src="/DOC/IMG_4716.jpeg" width="400"></td>
+</tr>
+<tr>
+<td>ILI9341（表面） 320 x 240</td>
+<td>ILI9341（背面）</td>
+</tr>
+</table>
+<br>
+
+<table>
+<tr>
+<td><img src="/DOC/IMG_4718.jpeg" width="400"></td>
+<td><img src="/DOC/IMG_4719.jpeg" width="400"></td>
+</tr>
+<tr>
+<td>ILI9486（表面） 480 x 320</td>
+<td>ILI9486（裏面）</td>
+</tr>
+</table>
+<br>
+
+
 ## ボードの組み立て
 ### - ピンヘッダー５組
 ### - プルアップ抵抗（10kΩ）
 ### - 電源シュートジャンパーを半田付け
 ### - カメラをカメラマウンターに取り付け<br><br>
-![](DOC/IMG_4697.jpeg)
+<img src="/DOC/IMG_4697.jpeg" width="600">
 <br>
 <br>
 
 ### カメラマウンター<br>
-![](DOC/Spresense_CAMERA_BASE7.jpg)<br>
-### [カメラマウンター] DOC/SPRESENSE CAMERA BASE7.stl <br>
-### [カメラマウンター　Tinkercad](https://www.tinkercad.com/things/2FAODkR43Zt-spresense-camera-base7)
+<img src="/DOC/Spresense_CAMERA_BASE7.jpg" width="600"></img>
+#### [カメラマウンター] DOC/SPRESENSE CAMERA BASE7.stl <br>
+#### [カメラマウンター　Tinkercad](https://www.tinkercad.com/things/2FAODkR43Zt-spresense-camera-base7)
 <br><br>
 
 ## ビルド
 1. フォルダ（camera_apitest）をArduinoスケッチフォルダーにコピー
 2. ボードパッケージは "2.6.0" を使用します（3.xでは問題あり）
 3. Memory:1536KBを選択
-4. ライブラリーに "LovyanGFX" と "XPT2046_Touchscreen" をインストール
-5. ビルドしてアップロード
+4. ライブラリーに "LovyanGFX(1.1.9)" と "XPT2046_Touchscreen" をインストール
+   Adafruit ILI9341 タッチパネルを使用する場合は "Adafruit_STMPE610"もインストール
+6. ビルドしてアップロード
 
 <br><br>
 ## 使用方法
