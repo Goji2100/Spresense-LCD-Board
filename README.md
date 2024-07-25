@@ -97,7 +97,7 @@ Spresenseの拡張ボードにスタックするLCDボードです
 2. ボードパッケージは "2.6.0" を使用します（3.xでは問題あり）
 3. Memory:1536KBを選択
 4. ライブラリーに "LovyanGFX(1.1.9)" と "XPT2046_Touchscreen" をインストール
-   Adafruit ILI9341 タッチパネルを使用する場合は "Adafruit_STMPE610"もインストール
+5. Adafruit ILI9341のタッチパネルを使用する場合は "Adafruit_STMPE610" もインストール
 6. ビルドしてアップロード
 
 <br><br>
