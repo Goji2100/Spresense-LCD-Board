@@ -26,7 +26,7 @@ Spresenseの拡張ボードにスタックするLCDボードです
 <img src="/DOC/Spresense_LCD_B.png" width="800px"><br><br>
 
 ## 使用するLCD
-<img src="/DOC/IMG_4674.jpeg" width="800px">
+<img src="/DOC/HVGA_LCD.png" width="800px">
 
 左）3.5 インチタッチスクリーン MHS TFT LCD モジュール[SPI 125MHz Support]<br>
 右）GeeekPi 3.5インチ320 * 480モニタータッチパネル LCD[SPI 180MHz Support]　　
@@ -83,12 +83,37 @@ Spresenseの拡張ボードにスタックするLCDボードです
 ### ILI9341
 <table>
 <tr>
-<td><img src="/DOC/IMG_4715.jpeg" width="400"></td>
-<td><img src="/DOC/IMG_4716.jpeg" width="400"></td>
+<td><img src="/DOC/IMG_4748.jpeg" width="400"></td>
+<td><img src="/DOC/IMG_4747.jpeg" width="400"></td>
 </tr>
 <tr>
 <td>ILI9341（表面） 320 x 240</td>
 <td>ILI9341（背面）</td>
+</tr>
+</table>
+<br>
+
+### ILI9381 の組み込み
+<table>
+<tr>
+<td><img src="/DOC/IMG_4733.jpeg" width="400"></td>
+<td><img src="/DOC/Shield.png" width="400"></td>
+</tr>
+<tr>
+<td>ILI9488（ILI9381とピン配置は同じ）</td>
+<td>ILI9341/9488と拡張ボードとの配線</td>
+</tr>
+</table>
+<br>
+
+<table>
+<tr>
+<td><img src="/DOC/IMG_4742.jpeg" width="400"></td>
+<td><img src="/DOC/IMG_4739.jpeg" width="400"></td>
+</tr>
+<tr>
+<td>実際の配線（ProtoType Shieldを経由します）</td>
+<td>カメラフラットケーブルの折り曲げ加工</td>
 </tr>
 </table>
 <br>
