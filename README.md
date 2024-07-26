@@ -40,6 +40,7 @@ Spresenseの拡張ボードにスタックするLCDボードです
 </table>
 <br>
 
+### Adafruit ILI9381
 <table>
 <tr>
 <td><img src="/DOC/IMG_4712.jpeg" width="400px"></td>
@@ -50,8 +51,36 @@ Spresenseの拡張ボードにスタックするLCDボードです
 <td>Adafruit ILI9341（背面）</td>
 </tr>
 </table>
+
+### Adafruit ILI9381 の組み込み
+<table>
+<tr>
+<td><img src="/DOC/IMGS4800.png" width="800px"></td>
+</tr>
+<tr>
+<td>フラットケーブルの折り曲げ加工、ILI9341の改造（TFT_CSをpin6に変更する）</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="/DOC/IMGS4801.png" width="800px"></td>
+</tr>
+<tr>
+<td>フラットケーブル取り付け、動作電圧の変更（Shieldは５V動作）</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="/DOC/IMG_4732.jpeg" width="400px"></td>
+</tr>
+<tr>
+<td>カメラは拡張ボードの背面に両面テープで貼り付け💦</td>
+</tr>
+</table>
 <br>
 
+
+### ILI9341
 <table>
 <tr>
 <td><img src="/DOC/IMG_4715.jpeg" width="400"></td>
@@ -64,6 +93,8 @@ Spresenseの拡張ボードにスタックするLCDボードです
 </table>
 <br>
 
+
+### ILI9486
 <table>
 <tr>
 <td><img src="/DOC/IMG_4718.jpeg" width="400"></td>
@@ -76,8 +107,7 @@ Spresenseの拡張ボードにスタックするLCDボードです
 </table>
 <br>
 
-
-## ボードの組み立て
+## ILI9486の組み込み
 ### - ピンヘッダー５組
 ### - プルアップ抵抗（10kΩ）
 ### - 電源シュートジャンパーを半田付け
