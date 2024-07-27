@@ -155,7 +155,11 @@ Spresenseの拡張ボードにスタックするLCDボードです
 5. Adafruit ILI9341のタッチパネルを使用する場合は "Adafruit_STMPE610" もインストール
 6. ビルドしてアップロード
 
+
+### define 文の変更（使用するLCDを選択）
+<img src="/DOC/define.png" width="600"></img>
 <br><br>
+
 ## 使用方法
 - オリジナルはSpresenseのサンプルスケッチ->camera->camera_apitest.inoです<br>
   LovyanGFXでプレビュー表示するする処理を追加<br>
