@@ -97,7 +97,7 @@ Spresenseの拡張ボードにスタックするLCDボードです
 <table>
 <tr>
 <td><img src="/DOC/IMG_4733.jpeg" width="400"></td>
-<td><img src="/DOC/Shield.png" width="400"></td>
+<td><img src="/DOC/Shield2.png" width="400"></td>
 </tr>
 <tr>
 <td>ILI9488（ILI9381とピン配置は同じ）</td>
