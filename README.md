@@ -40,7 +40,7 @@ Spresenseの拡張ボードにスタックするLCDボードです
 </table>
 <br>
 
-### Adafruit ILI9381
+### Adafruit ILI9341
 <table>
 <tr>
 <td><img src="/DOC/IMG_4712.jpeg" width="400px"></td>
@@ -52,7 +52,7 @@ Spresenseの拡張ボードにスタックするLCDボードです
 </tr>
 </table>
 
-### Adafruit ILI9381 の組み込み
+### Adafruit ILI9341 の組み込み
 <table>
 <tr>
 <td><img src="/DOC/IMGS4800.png" width="800px"></td>
@@ -80,7 +80,7 @@ Spresenseの拡張ボードにスタックするLCDボードです
 <br>
 
 
-### ILI9341
+### ILI9341(320 x 240)/ILI9488(480 x 320)
 <table>
 <tr>
 <td><img src="/DOC/IMG_4748.jpeg" width="400"></td>
@@ -93,15 +93,15 @@ Spresenseの拡張ボードにスタックするLCDボードです
 </table>
 <br>
 
-### ILI9381 の組み込み
+### ILI9341/ILI9488 の組み込み
 <table>
 <tr>
 <td><img src="/DOC/IMG_4733.jpeg" width="400"></td>
 <td><img src="/DOC/Shield2.png" width="400"></td>
 </tr>
 <tr>
-<td>ILI9488（ILI9381とピン配置は同じ）</td>
-<td>ILI9341/9488と拡張ボードとの配線</td>
+<td>ILI9488（ILI9341とピン配置は同じ）</td>
+<td>ILI9341/ILI9488と拡張ボードとの配線</td>
 </tr>
 </table>
 <br>
@@ -119,7 +119,7 @@ Spresenseの拡張ボードにスタックするLCDボードです
 <br>
 
 
-### ILI9486
+### ILI9486(480 x 320)
 <table>
 <tr>
 <td><img src="/DOC/IMG_4718.jpeg" width="400"></td>
